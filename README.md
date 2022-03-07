@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maklapadre
 - 👀 I’m interested in video game coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on cool projects
 
 <!---
